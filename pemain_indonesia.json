@@ -1,0 +1,112 @@
+{
+  "result": [
+    {
+      "no": "1",
+      "name": "Evan Dimas",
+      "birth_date": "1995-03-13",
+      "Position": "Midfielder",
+      "International": "Indonesia",
+      "Team": "Persija Jakarta",
+      "Poster": "https://example.com/evan_dimas.jpg"
+    },
+    {
+      "no": "2",
+      "name": "Stefano Lilipaly",
+      "birth_date": "1990-01-10",
+      "Position": "Midfielder",
+      "International": "Indonesia",
+      "Team": "Borneo FC",
+      "Poster": "https://example.com/stefano_lilipaly.jpg"
+    },
+    {
+      "no": "3",
+      "name": "Nadeo Argawinata",
+      "birth_date": "1997-03-09",
+      "Position": "Goalkeeper",
+      "International": "Indonesia",
+      "Team": "Bali United",
+      "Poster": "https://example.com/nadeo_argawinata.jpg"
+    },
+    {
+      "no": "4",
+      "name": "Asnawi Mangkualam",
+      "birth_date": "1999-10-04",
+      "Position": "Defender",
+      "International": "Indonesia",
+      "Team": "Ansan Greeners",
+      "Poster": "https://example.com/asnawi_mangkualam.jpg"
+    },
+    {
+      "no": "5",
+      "name": "Irfan Bachdim",
+      "birth_date": "1988-08-11",
+      "Position": "Forward",
+      "International": "Indonesia",
+      "Team": "PSS Sleman",
+      "Poster": "https://example.com/irfan_bachdim.jpg"
+    },
+    {
+      "no": "6",
+      "name": "Hansamu Yama",
+      "birth_date": "1995-01-16",
+      "Position": "Defender",
+      "International": "Indonesia",
+      "Team": "Persebaya Surabaya",
+      "Poster": "https://example.com/hansamu_yama.jpg"
+    },
+    {
+      "no": "7",
+      "name": "Egy Maulana Vikri",
+      "birth_date": "2000-07-07",
+      "Position": "Forward",
+      "International": "Indonesia",
+      "Team": "Dewa United",
+      "Poster": "https://example.com/egy_maulana_vikri.jpg"
+    },
+    {
+      "no": "8",
+      "name": "Rizky Ridho",
+      "birth_date": "2001-01-21",
+      "Position": "Defender",
+      "International": "Indonesia",
+      "Team": "Persebaya Surabaya",
+      "Poster": "https://example.com/rizky_ridho.jpg"
+    },
+    {
+      "no": "9",
+      "name": "Witan Sulaeman",
+      "birth_date": "2001-10-08",
+      "Position": "Forward",
+      "International": "Indonesia",
+      "Team": "Persija Jakarta",
+      "Poster": "https://example.com/witan_sulaeman.jpg"
+    },
+    {
+      "no": "10",
+      "name": "Osvaldo Haay",
+      "birth_date": "1998-05-17",
+      "Position": "Forward",
+      "International": "Indonesia",
+      "Team": "Persebaya Surabaya",
+      "Poster": "https://example.com/osvaldo_haay.jpg"
+    },
+    {
+      "no": "11",
+      "name": "Yabes Roni",
+      "birth_date": "1995-02-06",
+      "Position": "Forward",
+      "International": "Indonesia",
+      "Team": "Bali United",
+      "Poster": "https://example.com/yabes_roni.jpg"
+    },
+    {
+      "no": "12",
+      "name": "Ryuji Utomo",
+      "birth_date": "1995-07-01",
+      "Position": "Defender",
+      "International": "Indonesia",
+      "Team": "Penang FA",
+      "Poster": "https://example.com/ryuji_utomo.jpg"
+    }
+  ]
+}
